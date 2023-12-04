@@ -1,6 +1,6 @@
 # LLM Q and A
 
-This is a Q and A system using the PaLM LLM. You will need the google API key to be ble to access PaLM LLM. This project uses the FAISS vector database to perfom RAG (Retrieval Augmented Generation).
+This is a Q and A system using the PaLM LLM. You will need the google API key to be able to access PaLM LLM. This project uses the FAISS vector database to perfom RAG (Retrieval Augmented Generation).
 
 ## How To Run
 1. You can create virtual environment, if you create it, use the virtual environment
